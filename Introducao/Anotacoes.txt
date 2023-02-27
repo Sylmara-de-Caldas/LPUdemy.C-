@@ -1,0 +1,45 @@
+
+** Algoritmos **
+
+Sequência finita de instruções para se resolver um problema
+
+* Automação * 
+
+Consiste em utilizar máquinas para executar o procedimento desejado de forma automática ou semiautomática
+
+
+# Programas de computador são algoritmos executados pelo computador (em linhas gerais)
+# O computador é a máquina que automotiza a execução dos algoritmos computacionais, como
+	- Processamento de dados
+	- Cálculos
+
+** IDE = software ambiente integrado de desenvolvimento (edição e teste dos programas)
+	- Visual Studio (linguagens da plataforma .Net)
+	- Edição do código fonte
+	- Depuração e testes
+	- Contrução do produto final (build)
+	- Sugestão de modelos (templates)
+	- Auxiliar em várias tarefas do seu projeto
+
+# Código fonte -> escrito pelo programador em linguagem de programação
+# Código objeto -> código compilado, entendido pela máquina
+
+** Compilador = software que transforma o código fonte em código objeto
+	- Compila o código fonte em objeto analisando a sintaxe, depois realiza o build e então deixa o código pronto para ser executado
+	- Linguagens C, C++
+	+ Velocidade do programa 
+	+ auxílio do compilador antes da execução
+
+** Interpretação = softawere interpretador que lê o código fonte por demanda
+	- Gradativamente o interpretador vai lendo o código e o transformando em executável
+	- Linguagens interpretadas (python, php etc)
+	+ flexibilidade de manutenção do aplicativo em produção, não é necessário recompilar todo o app 
+	+ expressividade de linguagem (complexidade de código em poucas linhas)
+	+ código fonte não precisa ser recompilado para rodar em sistemas operacionais diferentes, basta trocar o interpretador
+
+** Abordagem hibrida = Realizado uma pré compilação do código fonte, gerando um código bytecode e será interpretado e executado por uma máquina virtual
+	- Linguagens Java (Java Virtual Machine - JVM), C# (.Net Framework)
+	- Para rodar em diferentes sistemas operacionais, basta trocar a máquina virtual
+
+** Máquina virtual = software que permite que o programa seja executado
+
