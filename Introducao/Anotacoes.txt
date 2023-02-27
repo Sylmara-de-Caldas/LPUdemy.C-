@@ -42,5 +42,3 @@ Consiste em utilizar máquinas para executar o procedimento desejado de forma aut
 	- Para rodar em diferentes sistemas operacionais, basta trocar a máquina virtual
 
 ** Máquina virtual = software que permite que o programa seja executado
-
-teste
